@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088478324521",
+    "project_id": "akashistagram",
+    "storage_bucket": "akashistagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088478324521:android:3f3c45448833e53bbe3938",
+        "android_client_info": {
+          "package_name": "com.example.akashistagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088478324521-gulg9memoj48v94o65i1idr53139bikp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf9BwPDoE93bNARcbOv-Su3gTmyeIGz2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088478324521-gulg9memoj48v94o65i1idr53139bikp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
